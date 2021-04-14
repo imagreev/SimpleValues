@@ -9,15 +9,6 @@ questions = [
         }
     },
     {
-        "question": "A social-democratic economy is better than laissez-faire capitalism.",
-        "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "The freer the markets, the freer the people.",
         "effect": {
             "econ": -10,
@@ -81,15 +72,6 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -5
-        }
-    },
-    {
         "question": "Roads should be publicly owned",
         "effect": {
             "econ": 10,
@@ -117,29 +99,11 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 5,
-            "scty": 0
-        }
-    },
-    {
         "question": "The means of production should belong to the workers who use them.",
         "effect": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The United Nations should be abolished.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
             "scty": 0
         }
     },
@@ -231,15 +195,6 @@ questions = [
             "dipl": 10,
             "govt": 0,
             "scty": 10
-        }
-    },
-    {
-        "question": "Governments should be accountable to the international community.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 0
         }
     },
     {
