@@ -167,7 +167,7 @@ ideologies = [
             "econ": 60,
             "dipl": 60,
             "govt": 60,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -185,7 +185,7 @@ ideologies = [
             "econ": 60,
             "dipl": 70,
             "govt": 60,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -299,7 +299,7 @@ ideologies = [
     {
         "name": "Libertarianism",
         "stats": {
-            "econ": 40,
+            "econ": 30,
             "dipl": 60,
             "govt": 80,
             "scty": 60
@@ -317,7 +317,7 @@ ideologies = [
     {
         "name": "Nazism",
         "stats": {
-            "econ": 30,
+            "econ": 40,
             "dipl": 0,
             "govt": 0,
             "scty": 5
@@ -365,7 +365,7 @@ ideologies = [
             "econ": 30,
             "dipl": 30,
             "govt": 50,
-            "scty": 60
+            "scty": 70
         }
     },
     {
@@ -456,6 +456,15 @@ ideologies = [
             "dipl": 40,
             "govt": 50,
             "scty": 50
+        }
+    },
+    {
+        "name": "Anarcho-Individualism",
+        "stats": {
+            "econ": 35,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 60
         }
     },
     {
