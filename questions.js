@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "A social-democratic economy works best.",
+        "question": "A social-democratic economy is better than laissez-faire capitalism.",
         "effect": {
             "econ": 5,
             "dipl": 0,
